@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:rent_car/net/flutterfire.dart';
 import 'package:rent_car/screen/homescreen.dart';
-// import 'package:modal_progress_hud/modal_progress_hud.dart';
 import 'package:rent_car/screen/registration_screeen.dart';
 
 class LoginScreen extends StatefulWidget {
